@@ -1,0 +1,16 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+runtime/
+vendor/
+.phpintel/
+.env
+.env.example
+.DS_Store
+.phpunit*
+*.cache
+.vscode/
+composer.lock
