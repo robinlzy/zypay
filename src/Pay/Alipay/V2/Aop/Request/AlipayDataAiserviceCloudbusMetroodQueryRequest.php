@@ -1,4 +1,4 @@
-<?php  namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop\Request;
+<?php  namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop\Request;
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.metrood.query request
  *

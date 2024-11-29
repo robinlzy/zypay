@@ -7,7 +7,7 @@
  */
 
 //namespace alipay\api ;
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop;
 
 class AlipayMobilePublicMultiMediaExecute
 {

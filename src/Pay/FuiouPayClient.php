@@ -1,6 +1,6 @@
 <?php
 
-namespace Ziyanco\Library\Pay;
+namespace Ziyancs\Library\Pay;
 use Hyperf\HttpServer\Annotation\RequestMapping;
 
 /**

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ziyanco\Library\Pay;
+namespace Ziyancs\Library\Pay;
 use WeChatPay\Builder;
 use WeChatPay\Crypto\AesGcm;
 use WeChatPay\Crypto\Rsa;

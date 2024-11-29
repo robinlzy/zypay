@@ -1,11 +1,11 @@
 <?php
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop\Schema;
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\XMLAttribute;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop\Schema;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\XMLAttribute;
 //require_once 'XMLAttribute.php';
 //require_once 'AttributeRule.php';
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\AttributeRule;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\AttributeRule;
 //require_once 'Option.php';
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\Option;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\Option;
 class ServiceSchemaFactory
 {
     public static function createAttribute($id = null, $name = null, $type = null, $valueType = null)

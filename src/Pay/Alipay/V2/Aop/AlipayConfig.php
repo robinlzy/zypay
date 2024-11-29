@@ -1,6 +1,6 @@
 <?php
 
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop;
 class AlipayConfig {
     /**
      * 网关地址

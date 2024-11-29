@@ -1,14 +1,14 @@
 <?php
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop\Schema;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop\Schema;
 
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\XMLAttribute;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\XMLAttribute;
 //require_once 'XMLAttribute.php';
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\AttributeRule;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\AttributeRule;
 //require_once 'AttributeRule.php';
 //require_once 'Option.php';
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\Option;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\Option;
 //require_once 'ServiceSchemaFactory.php';
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\ServiceSchemaFactory;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\ServiceSchemaFactory;
 
 class ServiceSchemaReader
 {

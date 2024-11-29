@@ -1,9 +1,9 @@
 <?php
 
-namespace Ziyanco\Zypay\Pay;
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\AlipayConfig;
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\AopClient;
-use Ziyanco\Zypay\Pay\Alipay\V2\Aop\Request\AlipayTradeWapPayRequest;
+namespace Ziyancs\Zypay\Pay;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\AlipayConfig;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\AopClient;
+use Ziyancs\Zypay\Pay\Alipay\V2\Aop\Request\AlipayTradeWapPayRequest;
 
 /**
  * 支付宝支付

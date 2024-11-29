@@ -1,4 +1,4 @@
-<?php  namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop\Request;
+<?php  namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop\Request;
 /**
  * ALIPAY API: mybank.credit.supplychain.inventory.out.apply request
  *

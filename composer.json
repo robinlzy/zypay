@@ -5,7 +5,7 @@
     "license": "this is dev",
     "autoload": {
         "psr-4": {
-            "Ziyanco\\Zypay\\": "src/"
+            "Ziyancs\\Zypay\\": "src/"
         }
     },
     "authors": [

@@ -1,5 +1,5 @@
 <?php
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop\Schema;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop\Schema;
 class XMLAttribute
 {
     private $id;

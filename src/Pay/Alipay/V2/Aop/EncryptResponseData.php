@@ -6,7 +6,7 @@
  * Date: 16/3/30
  * Time: 下午8:51
  */
-namespace Ziyanco\Zypay\Pay\Alipay\V2\Aop;
+namespace Ziyancs\Zypay\Pay\Alipay\V2\Aop;
 class EncryptResponseData
 {
     public $realContent;
