@@ -1,0 +1,27 @@
+{
+  "name": "ziyancs/zypay",
+  "description": "paycommon",
+  "type": "library",
+  "license": "this is dev",
+  "autoload": {
+    "psr-4": {
+      "Ziyancs\\Zypay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zy"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.1",
+    "hyperf/framework": "~3.1.0",
+    "hyperf/redis": "~3.1.0",
+    "hyperf/guzzle": "^3.1",
+    "wechatpay/wechatpay": "^1.4"
+  },
+  "require-dev": {
+    "swoole/ide-helper": "^5.0"
+  }
+}
